@@ -3,8 +3,9 @@
 /**
  * print_last_digit - prints the last digit of number
  * @n: is the int that will use for the argument of the function
- * Return: interger value
+ * Return: integer value
  */
+
 int print_last_digit(int n)
 {
 	int last;
@@ -13,6 +14,7 @@ int print_last_digit(int n)
 
 	if (last < 0)
 		last = last * -l;
+
 	_putchar(last + '0');
 
 	return (last);
