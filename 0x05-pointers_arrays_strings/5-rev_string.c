@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * rev_sting - Reverses a string
- * @s: Input string
+ * rev_string - Reverses a string
+ * @s: input string
  * Return: String in reverse
  */
 
