@@ -24,3 +24,4 @@ void print_number(int n)
 		print_number(m / 10);
 	_putchar((m % 10) + '0');
 }
+
